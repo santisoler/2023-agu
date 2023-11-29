@@ -1,4 +1,4 @@
-# Processing potential fields data with Fatiando a Terra
+# Processing potential field data with Fatiando a Terra
 
 [Santiago Soler][santisoler], [Lu Li][lu] and [Lindsey Heagy][lindsey]
 
