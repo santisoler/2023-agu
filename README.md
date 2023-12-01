@@ -5,8 +5,12 @@
 | **Information** | |
 |---|---|
 | Abstract ID | 1443596 |
+| Presentation Type | eLightning Session |
 | Session | [NS014 - Transform Open Science Practices in Near Surface Geophysics][ns014] |
 | Session Conveners | [Seogi Kang][seogi], [Dieter Werthmuller][dieter],[Lindsey Heagy][lindsey], Aakash Ahamed and [Andrea Balza][andrea] |
+| When | Wed 13 December 2023, 14:10-15:40 PST |
+| Where | MC, eLightning Theater V, Hall D - South |
+
 
 ## Abstract
 
