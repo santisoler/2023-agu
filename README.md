@@ -4,6 +4,7 @@
 
 | **Information** | |
 |---|---|
+| Conference | [AGU Fall Meeting 2023][agu] |
 | Abstract ID | 1443596 |
 | Presentation Type | eLightning Session |
 | Session | [NS014 - Transform Open Science Practices in Near Surface Geophysics][ns014] |
@@ -57,3 +58,4 @@ capabilities and ease of use.
 [seogi]: https://sgkang.github.io
 [dieter]: https://werthmuller.org
 [andrea]: https://www.andreabalza.com
+[agu]: https://www.agu.org/fall-meeting
