@@ -7,7 +7,7 @@
 | Conference | [AGU Fall Meeting 2023][agu] |
 | Abstract ID | 1443596 |
 | Presentation Type | eLightning Session |
-| Session | [NS014 - Transform Open Science Practices in Near Surface Geophysics][ns014] |
+| Session | [NS33C - Transform Open Science Practices in Near Surface Geophysics][ns33c] |
 | Session Conveners | [Seogi Kang][seogi], [Dieter Werthmuller][dieter], [Lindsey Heagy][lindsey], Aakash Ahamed and [Andrea Balza][andrea] |
 | When | Wed 13 December 2023, 14:10-15:40 PST |
 | Where | MC, eLightning Theater V, Hall D - South |
@@ -54,7 +54,7 @@ capabilities and ease of use.
 [santisoler]: https://www.santisoler.com
 [lindsey]: https://lindseyjh.ca
 [lu]: https://github.com/LL-Geo
-[ns014]: https://agu.confex.com/agu/fm23/prelim.cgi/Session/192206
+[ns33c]: https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/203260
 [seogi]: https://sgkang.github.io
 [dieter]: https://werthmuller.org
 [andrea]: https://www.andreabalza.com
